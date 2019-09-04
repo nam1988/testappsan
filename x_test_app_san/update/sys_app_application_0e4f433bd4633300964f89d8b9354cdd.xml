@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category/>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name>test app san</name>
+        <order/>
+        <roles>x_test_app_san.user</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-04 21:09:54</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>0e4f433bd4633300964f89d8b9354cdd</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>test app san</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="test app san" source="x_test_app_san">bd4fcff7d4633300964f89d8b9354cae</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="test app san">bd4fcff7d4633300964f89d8b9354cae</sys_scope>
+        <sys_update_name>sys_app_application_0e4f433bd4633300964f89d8b9354cdd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-04 21:09:55</sys_updated_on>
+        <title>test app san</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>
